@@ -15,3 +15,16 @@ Inside that directory run :
 Other command : 
 
  .\RUN.bat    
+
+
+
+
+PS: I really hope that i pass this time the exam as it is my last exam. 
+
+Thank you for your time .
+
+
+
+
+
+
